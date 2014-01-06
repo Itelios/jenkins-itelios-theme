@@ -3,6 +3,10 @@ body {
     font-family:"Trebuchet MS", Helvetica, sans-serif !important;
 }
 
+body, table, form, input, td, th, p, textarea, select {
+    font-family:"Trebuchet MS", Helvetica, sans-serif !important;	
+}
+
 #top-panel {
     height: 37px !important;
     background: #424242;
