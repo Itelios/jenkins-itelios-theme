@@ -8,7 +8,7 @@ body, table, form, input, td, th, p, textarea, select {
 }
 
 #top-panel {
-    height: 80px !important;
+    height: 100px !important;
     background: #424242;
 }
 
