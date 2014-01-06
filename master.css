@@ -23,6 +23,7 @@ body, table, form, input, td, th, p, textarea, select {
 #top-panel td > a {
     display: block;
     width: 300px;
+    background: url("http://www.itelios.com/Themes/Bootstrap/content/Itelios/logo_IteliosV3.png");
 }
 
 #top-panel td > a img {
