@@ -1,10 +1,11 @@
 body {
     background: #F0F0F0 !important;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
 }
 
 #top-panel {
     height: 37px !important;
-    background: #036;
+    background: #424242;
 }
 
 #top-panel td #login-field span a {
@@ -21,7 +22,7 @@ body {
 }
 
 #breadcrumbs {
-    background: #326ca6;
+    background: #E58900;
     border-top: 1px solid #036;
     border-bottom: none !important;
     margin-bottom: 10px;
