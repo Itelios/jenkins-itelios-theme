@@ -25,6 +25,10 @@ body, table, form, input, td, th, p, textarea, select {
     width: 300px;
 }
 
+#top-panel td > a img {
+    display: none; 
+}
+
 #breadcrumbs {
     background: #E58900;
     border-top: 1px solid #036;
