@@ -23,10 +23,13 @@ body, table, form, input, td, th, p, textarea, select {
 #top-panel td > a {
     display: block;
     width: 300px;
+    
+}
+#jenkins-home-link {
     background: url("http://www.itelios.com/Themes/Bootstrap/content/Itelios/logo_IteliosV3.png")0 0 no-repeat;
     width: 130px;
     height: 40px;
-    margin: 10px 0 10px 10px;
+    margin: 10px 0 10px 10px;	
 }
 
 #top-panel td > a img {
